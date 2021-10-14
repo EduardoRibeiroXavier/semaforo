@@ -15,4 +15,9 @@ main {
 
 .button {
     width: 80px;
+    border-style: none;
+    background-color: gray;
+    color:black;
+    border-radius: 10px;
 }
+
